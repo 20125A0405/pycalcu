@@ -1,1 +1,1 @@
-# pycalcu
+Simple python calculator
