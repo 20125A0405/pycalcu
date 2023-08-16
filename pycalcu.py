@@ -12,6 +12,7 @@ def divide(x, y):
         return x / y
     else:
         return "Cannot divide by zero"
+#Selection catogory
 
 print("Select operation:")
 print("1. Add")
